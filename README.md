@@ -1,5 +1,5 @@
-# OEP3W-MD4103-Amplifier
-Audio Amplifier Class D 3W module for Arduino (and others)
+# OEP3W (MD4103 chip) Amplifier
+Audio Amplifier, Class D, 3W module for Arduino (and others)
 
 # See the associated YouTube video # 121 here https://www.youtube.com/ralphbacon  
 (Direct link to video: https://youtu.be/W9GpPW-u71s)
