@@ -6,6 +6,8 @@ Audio Amplifier, Class D, 3W module for Arduino (and others)
 
 This tiny audio amplifier, that runs from 3 volts to 5.5 volts caught my eye and thought it would be worth further investigation.
 
+Where I got it: https://www.ebay.co.uk/itm/362078995469 (available generally)
+
 All it needs is a 3W 4ohm speaker and an input signal and you're good to go.  
 
 **Connection details**  
