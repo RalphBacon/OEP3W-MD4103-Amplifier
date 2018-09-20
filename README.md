@@ -32,3 +32,10 @@ To understand why this Class D amplifier can deliver 3W without melting (or a he
 1. https://en.wikipedia.org/wiki/Power_amplifier_classes  
 2. https://www.electronicdesign.com/analog/understanding-amplifier-operating-classes  
 
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+
+**My channel and blog are here**:  
+------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+------------------------------------------------------------------  
