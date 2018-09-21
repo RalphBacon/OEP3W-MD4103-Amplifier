@@ -9,6 +9,8 @@ This tiny audio amplifier, that runs from 3 volts to 5.5 volts caught my eye and
 Where I got it: https://www.ebay.co.uk/itm/362078995469 (available generally)
 
 All it needs is a 3W 4ohm speaker and an input signal and you're good to go.  
+This one is similar to the one I was using although it's 40mm whereas the one I have is 50mm  
+https://www.banggood.com/2pcs-1_5inch-4Ohm-3W-Full-Range-Audio-Speaker-Stereo-Loudspeaker-p-1120496.html
 
 **Connection details**  
 Connect the IN- to ground.  
